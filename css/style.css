@@ -1,11 +1,10 @@
-
 header{
     background-image:linear-gradient( rgba(214, 46, 51 , 0.6),rgba(214, 46, 51 , 0.6)), url(../images/events-heavenly-header.jpg);
     background-size: cover;
 }
 
-#sideNav{
-    left: 0;
+#side{
+    left: -1000px;
 }
 #open{
     left:0;
